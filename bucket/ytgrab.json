@@ -1,12 +1,12 @@
 {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "description": "Local YouTube downloader with a browser interface",
     "homepage": "https://github.com/Sanoy24/ytgrab",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sanoy24/ytgrab/releases/download/v1.5.0/ytgrab-1.5.0-windows-amd64.zip",
-            "hash": "bb551792f95928d4933dd26cf1833b8b879c8d7c6b0f418415d807acc252307b"
+            "url": "https://github.com/Sanoy24/ytgrab/releases/download/v1.6.0/ytgrab-1.6.0-windows-amd64.zip",
+            "hash": "d7aa1b7def9977f32580fcf9e3eb6c3b5a9b3957705dd1d3f12ded1580ce7c6e"
         }
     },
     "depends": [
